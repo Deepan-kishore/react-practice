@@ -6,3 +6,4 @@ const a = {d:1}
 console.log(a);
 
 
+
